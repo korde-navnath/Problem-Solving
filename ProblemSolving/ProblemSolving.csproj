@@ -5,7 +5,7 @@
     <TargetFramework>net8.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-    <StartupObject>ProblemSolving.GretestCommonDivisor</StartupObject>
+    <StartupObject>ProblemSolving.LargestElementInArray</StartupObject>
   </PropertyGroup>
 
 </Project>
